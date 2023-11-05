@@ -39,7 +39,6 @@ session_start();
     </table>
 </form>
 
-//引入axios
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script> 
 <script>
         //1.使用async的post请求
