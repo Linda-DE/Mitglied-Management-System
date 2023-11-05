@@ -16,6 +16,7 @@ session_start();
 <!--引入nav栏-->
 <div class="main"><?php include_once 'nav.php'; ?></div>
 
+<!--用户输入信息栏Message-->
 <div class="container">
     <h1>User Message Board</h1>
     <form action="userMassage.php" method="post">
